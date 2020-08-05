@@ -1,0 +1,7 @@
+README.txt
+setup.py
+vsearch.py
+vswarch.egg-info/PKG-INFO
+vswarch.egg-info/SOURCES.txt
+vswarch.egg-info/dependency_links.txt
+vswarch.egg-info/top_level.txt
